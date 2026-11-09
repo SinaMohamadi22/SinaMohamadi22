@@ -31,6 +31,22 @@ My journey started with HTML and CSS, followed by JavaScript and modern front-en
 
 ---
 
+<div align="center">
+
+  <br>
+
+  <a href="https://github.com/Mahdi-Devm?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-000000?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+<p align="center">
+</p>
+
+ <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Core Skills
