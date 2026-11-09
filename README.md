@@ -56,11 +56,6 @@ My journey started with HTML and CSS, followed by JavaScript and modern front-en
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SinaMohamadi22&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinaMohamadi22&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
-
 <br/>
 
 <img width="65%" src="https://streak-stats.demolab.com?user=SinaMohamadi22&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
