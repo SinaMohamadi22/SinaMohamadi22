@@ -67,17 +67,6 @@ My journey started with HTML and CSS, followed by JavaScript and modern front-en
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SinaMohamadi22&theme=github-compact&hide_border=true&area=true)](https://github.com/SinaMohamadi22)
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -97,11 +86,11 @@ My journey started with HTML and CSS, followed by JavaScript and modern front-en
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/sina-mohamadi-98a66b448">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sinamohamadi349@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
