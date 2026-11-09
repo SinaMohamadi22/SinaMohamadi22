@@ -60,21 +60,6 @@ My journey started with HTML and CSS, followed by JavaScript and modern front-en
 
 <img width="65%" src="https://streak-stats.demolab.com?user=SinaMohamadi22&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
-</div>
-
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-</div>
-
 ---
 
 ## 🤝 Let's Connect
